@@ -1,2 +1,2 @@
-# markdavidmc0.github.io
+# Mark Mc Naught
 Business Leader, Machine Learning Engineer, Scribe
